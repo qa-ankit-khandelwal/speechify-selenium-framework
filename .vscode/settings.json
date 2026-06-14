@@ -1,0 +1,8 @@
+{
+    "java.test.defaultConfig": "testng",
+    "java.test.config": {
+        "name": "Speechify TestNG Suite",
+        "testKind": "testng",
+        "testngConfigFile": "testng.xml"
+    }
+}

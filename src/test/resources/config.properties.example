@@ -1,0 +1,6 @@
+valid.email=YOUR_EMAIL@example.com
+valid.password=YourPassword123
+
+wrong.password=WrongPassword@999
+malformed.email=notanemail
+some.password=SomePassword@123

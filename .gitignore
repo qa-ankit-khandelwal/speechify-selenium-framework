@@ -1,0 +1,14 @@
+target/
+*.class
+*.log
+.DS_Store
+
+# IDE
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Real credentials — never commit this
+src/test/resources/config.properties
